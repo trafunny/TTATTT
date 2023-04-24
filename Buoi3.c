@@ -10,7 +10,7 @@ int gcd(int a , int b){
     //         a =a-b;
     //     }else 
     //      b= b-a;
-    // } 
+    // } Tra github 
 }
 void UCLN(){
     int a, b;
