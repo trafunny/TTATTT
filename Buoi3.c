@@ -10,7 +10,7 @@ int gcd(int a , int b){
     //         a =a-b;
     //     }else 
     //      b= b-a;
-    // } 
+    // } CACH thu 2
 }
 void UCLN(){
     int a, b;
